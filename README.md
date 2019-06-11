@@ -7,4 +7,4 @@ This project has the test cases for the ELearning Website. URL : http://elearnin
 
 Also the excel file has been uploaded which has all the data are in 9 different sheets.
 
-Note : The data needs to changed for every successfull run as the same data cannot be used again. 
+Note : The data needs to be changed for every successfull run as the same data cannot be used again. 
